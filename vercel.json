@@ -1,15 +1,6 @@
 {
   "version": 2,
   "framework": null,
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "storybook-static"
-      }
-    }
-  ],
   "buildCommand": "npm run build-storybook",
   "outputDirectory": "storybook-static",
   "installCommand": "npm install",
