@@ -13,8 +13,10 @@
     "chromatic": "npx chromatic --project-token=chpt_be1edd3c29f24e6"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.17",
