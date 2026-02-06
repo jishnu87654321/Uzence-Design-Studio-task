@@ -1,43 +1,43 @@
 
 > uzence-design-studio-task@0.0.0 build-storybook
-> storybook build --output-dir=C:\Users\jishn\AppData\Local\Temp\chromatic--21852-55RWpJMqqCyh
+> storybook build --output-dir=C:\Users\jishn\AppData\Local\Temp\chromatic--21056-wPGvQ7i8JSyw
 
 @storybook/cli v7.6.21
 
-info => Cleaning outputDir: C:\Users\jishn\AppData\Local\Temp\chromatic--21852-55RWpJMqqCyh
+info => Cleaning outputDir: C:\Users\jishn\AppData\Local\Temp\chromatic--21056-wPGvQ7i8JSyw
 info => Loading presets
 info => Building manager..
-info => Manager built (1.16 s)
+info => Manager built (221 ms)
 info => Building preview..
-info => Copying static files: C:\Users\jishn\OneDrive\Desktop\Uzence Design Studio task\node_modules\@storybook\manager\static at C:\Users\jishn\AppData\Local\Temp\chromatic--21852-55RWpJMqqCyh\sb-common-assets
+info => Copying static files: C:\Users\jishn\OneDrive\Desktop\Uzence Design Studio task\node_modules\@storybook\manager\static at C:\Users\jishn\AppData\Local\Temp\chromatic--21056-wPGvQ7i8JSyw\sb-common-assets
 WARN No story files found for the specified pattern: src\**\*.mdx
 [36mvite v5.4.21 [32mbuilding for production...[36m[39m
 transforming...
 [32m✓[39m 553 modules transformed.
 rendering chunks...
 computing gzip size...
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[32miframe.html                                    [39m[1m[2m 12.79 kB[22m[1m[22m[2m │ gzip:   3.59 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-DB79R3jG.js                     [39m[1m[2m  0.13 kB[22m[1m[22m[2m │ gzip:   0.13 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/WithTooltip-V3YHNWJZ-CAsbKo14.js        [39m[1m[2m  0.32 kB[22m[1m[22m[2m │ gzip:   0.23 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/syntaxhighlighter-MJWPISIS-C7G1q2NM.js  [39m[1m[2m  0.38 kB[22m[1m[22m[2m │ gzip:   0.25 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/index-B7LTuyD5.js                       [39m[1m[2m  0.40 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-B2Fx61Ma.js                     [39m[1m[2m  0.52 kB[22m[1m[22m[2m │ gzip:   0.35 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/index-DrFu-skq.js                       [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-Cv3rAi2i.js                     [39m[1m[2m  0.86 kB[22m[1m[22m[2m │ gzip:   0.55 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/entry-preview-BkZrvSMF.js               [39m[1m[2m  1.08 kB[22m[1m[22m[2m │ gzip:   0.63 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-BcxrGG1y.js                     [39m[1m[2m  3.19 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/iframe-BlEkK4Ez.js                      [39m[1m[2m  3.81 kB[22m[1m[22m[2m │ gzip:   1.64 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-FHoZfaOb.js                     [39m[1m[2m  5.17 kB[22m[1m[22m[2m │ gzip:   2.37 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-BAz7FMXc.js                     [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/index-uubelm5h.js                       [39m[1m[2m  7.81 kB[22m[1m[22m[2m │ gzip:   3.08 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/preview-BJKiUloN.js                     [39m[1m[2m  8.11 kB[22m[1m[22m[2m │ gzip:   3.09 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/DataGrid.stories-C5T2BxZY.js            [39m[1m[2m 10.79 kB[22m[1m[22m[2m │ gzip:   3.49 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/Color-6VNJS4EI-BPmGaMbI.js              [39m[1m[2m 30.93 kB[22m[1m[22m[2m │ gzip:  11.71 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/_getPrototype-3dRj5vNs.js               [39m[1m[2m 77.21 kB[22m[1m[22m[2m │ gzip:  22.95 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/react-18-C8LIfgPj.js                    [39m[1m[2m134.44 kB[22m[1m[22m[2m │ gzip:  43.36 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/entry-preview-docs-C7lg2UHF.js          [39m[1m[2m211.79 kB[22m[1m[22m[2m │ gzip:  66.33 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/DocsRenderer-NNNQARDV-ANS5jZL6.js       [39m[1m[33m543.24 kB[39m[22m[2m │ gzip: 177.52 kB[22m
-[2m../../../AppData/Local/Temp/chromatic--21852-55RWpJMqqCyh/[22m[36massets/formatter-SWP5E3XI-SerRsbjq.js          [39m[1m[33m601.49 kB[39m[22m[2m │ gzip: 186.18 kB[22m
-[32m✓ built in 6.91s[39m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[32miframe.html                                    [39m[1m[2m 12.79 kB[22m[1m[22m[2m │ gzip:   3.59 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-DB79R3jG.js                     [39m[1m[2m  0.13 kB[22m[1m[22m[2m │ gzip:   0.13 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/WithTooltip-V3YHNWJZ-CAsbKo14.js        [39m[1m[2m  0.32 kB[22m[1m[22m[2m │ gzip:   0.23 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/syntaxhighlighter-MJWPISIS-C7G1q2NM.js  [39m[1m[2m  0.38 kB[22m[1m[22m[2m │ gzip:   0.25 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/index-B7LTuyD5.js                       [39m[1m[2m  0.40 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-B2Fx61Ma.js                     [39m[1m[2m  0.52 kB[22m[1m[22m[2m │ gzip:   0.35 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/index-DrFu-skq.js                       [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-Cv3rAi2i.js                     [39m[1m[2m  0.86 kB[22m[1m[22m[2m │ gzip:   0.55 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/entry-preview-BkZrvSMF.js               [39m[1m[2m  1.08 kB[22m[1m[22m[2m │ gzip:   0.63 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-BcxrGG1y.js                     [39m[1m[2m  3.19 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/iframe-BlEkK4Ez.js                      [39m[1m[2m  3.81 kB[22m[1m[22m[2m │ gzip:   1.64 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-FHoZfaOb.js                     [39m[1m[2m  5.17 kB[22m[1m[22m[2m │ gzip:   2.37 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-BAz7FMXc.js                     [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/index-uubelm5h.js                       [39m[1m[2m  7.81 kB[22m[1m[22m[2m │ gzip:   3.08 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/preview-BJKiUloN.js                     [39m[1m[2m  8.11 kB[22m[1m[22m[2m │ gzip:   3.09 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/DataGrid.stories-C5T2BxZY.js            [39m[1m[2m 10.79 kB[22m[1m[22m[2m │ gzip:   3.49 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/Color-6VNJS4EI-BPmGaMbI.js              [39m[1m[2m 30.93 kB[22m[1m[22m[2m │ gzip:  11.71 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/_getPrototype-3dRj5vNs.js               [39m[1m[2m 77.21 kB[22m[1m[22m[2m │ gzip:  22.95 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/react-18-C8LIfgPj.js                    [39m[1m[2m134.44 kB[22m[1m[22m[2m │ gzip:  43.36 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/entry-preview-docs-C7lg2UHF.js          [39m[1m[2m211.79 kB[22m[1m[22m[2m │ gzip:  66.33 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/DocsRenderer-NNNQARDV-ANS5jZL6.js       [39m[1m[33m543.24 kB[39m[22m[2m │ gzip: 177.52 kB[22m
+[2m../../../AppData/Local/Temp/chromatic--21056-wPGvQ7i8JSyw/[22m[36massets/formatter-SWP5E3XI-SerRsbjq.js          [39m[1m[33m601.49 kB[39m[22m[2m │ gzip: 186.18 kB[22m
+[32m✓ built in 7.50s[39m
 info => Preview built (12 s)
-info => Output directory: C:\Users\jishn\AppData\Local\Temp\chromatic--21852-55RWpJMqqCyh
+info => Output directory: C:\Users\jishn\AppData\Local\Temp\chromatic--21056-wPGvQ7i8JSyw
